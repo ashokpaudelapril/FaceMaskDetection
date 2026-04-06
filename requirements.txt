@@ -1,0 +1,15 @@
+# Core ML / DL stack
+tensorflow
+keras
+numpy
+scikit-learn
+
+# Computer vision
+opencv-python
+
+# Notebook workflow
+jupyter
+ipykernel
+
+# Optional utility for common image handling in notebooks
+Pillow
